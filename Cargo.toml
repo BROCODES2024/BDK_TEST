@@ -1,0 +1,8 @@
+[package]
+name = "my_bdk_app"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+bdk_electrum = "0.21.0"
+bdk_wallet = "1.2.0"
